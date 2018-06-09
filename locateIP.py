@@ -1,5 +1,4 @@
 #!/usr/bin/python3.5
-import urllib.parse
 import urllib.request
 import webbrowser
 import re
